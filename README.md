@@ -10,4 +10,4 @@ Arrow Right: Move the snake right
 
 ## Demo
 
-Play the game online: [Snake Game Demo]()
+Play the game online: [Snake Game Demo](https://uharika77.github.io/Snake-game/)
